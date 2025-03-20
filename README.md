@@ -41,3 +41,6 @@ FinSight Analyzer is a powerful stock analysis tool built using Python, Streamli
     streamlit run FinSight_Analyzer.py
 
 4. Open your browser and navigate to http://localhost:8501 to access the app.
+
+## License
+This FinSight Analyzer is open source and released under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
